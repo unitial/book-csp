@@ -1,4 +1,4 @@
-My Awesome Book
+计算机系统原理（课程讲义）
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本书是上海交通大学开设“计算机系统原理”课程的配套讲义。
